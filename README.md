@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a full stack developer<br>
+Hi 👋! My name is Mohit Kumar and I'm an SDE-2 (Backend & Full Stack Developer) from India.<br>
 
 
 # 💻 Tech Stack:
